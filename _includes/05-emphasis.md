@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Some **_awesome_ things**:
+- Lists
+- *Bullet Points*
+1. Numbers
+2. **Numbered** lists
